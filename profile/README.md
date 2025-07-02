@@ -57,7 +57,7 @@ Visi kami adalah menjadi platform utama bagi setiap pasangan dan sahabat di selu
 
 Kami sedang dalam tahap pengembangan aktif dan tidak sabar untuk membagikan hasilnya kepada dunia. Ikuti perjalanan kami dalam membangun **Livales** melalui:
 
-- 🌐 Website Resmi: [www.livales.app](https://www.livales.app) _(Segera Hadir)_
+- 🌐 Website Resmi: [www.livales.app](https://livales.netlify.app) _(Segera Hadir)_
 - 📸 Instagram: [@livales.app](https://www.instagram.com/livales.app) _(Placeholder)_
 - 🎵 TikTok: [@livales.app](https://www.tiktok.com/@livales.app) _(Placeholder)_
 
