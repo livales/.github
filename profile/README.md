@@ -14,7 +14,7 @@ Sedang kami kembangkan. Kabar selanjutnya akan kami bagikan di website.
 
 ## Kontak dan kolaborasi
 
-Punya ide kerja sama, ingin berkolaborasi, atau sekadar ingin menyapa? Kirim email ke [livalesofficial@gmail.com](mailto:livalesofficial@gmail.com). Kami senang mendengar dari kamu.
+Punya ide kerja sama, ingin berkolaborasi, atau sekadar ingin menyapa? Hubungi kami lewat [LinkedIn](https://www.linkedin.com/company/livales/) atau [livales.com](https://livales.com). Kami senang mendengar dari kamu.
 
 ## Ikuti perjalanan kami
 
